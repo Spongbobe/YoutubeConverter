@@ -1,9 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31815.197
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeConverter", "YoutubeConverter\YoutubeConverter.csproj", "{11DDF511-BA1B-465E-9847-1268E76AEFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{97EBF286-331C-4A9C-AFB8-DAD960BD048C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ytDownloader", "Youtube_Downloader\ytDownloader\ytDownloader.csproj", "{D3737516-0DAD-40D0-97CF-F0BD28C35D26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "random-api", "random-api\random-api.csproj", "{642B8EE6-8C09-43C1-8FCE-0C025244610A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomeControls", "CustomeControls\CustomeControls.csproj", "{622CCCBA-D9BE-408A-BD88-F8104BFF591F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiktok-api", "Tiktok-api\Tiktok-api.csproj", "{2B2A3CE8-F9EF-4EF6-B5E1-81324E4139FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Money-Exchange", "Money-Exchange\Money-Exchange.csproj", "{1286617F-321D-4E60-A9E0-65BE001701F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +27,30 @@ Global
 		{11DDF511-BA1B-465E-9847-1268E76AEFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11DDF511-BA1B-465E-9847-1268E76AEFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11DDF511-BA1B-465E-9847-1268E76AEFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97EBF286-331C-4A9C-AFB8-DAD960BD048C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EBF286-331C-4A9C-AFB8-DAD960BD048C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EBF286-331C-4A9C-AFB8-DAD960BD048C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EBF286-331C-4A9C-AFB8-DAD960BD048C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3737516-0DAD-40D0-97CF-F0BD28C35D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3737516-0DAD-40D0-97CF-F0BD28C35D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3737516-0DAD-40D0-97CF-F0BD28C35D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3737516-0DAD-40D0-97CF-F0BD28C35D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642B8EE6-8C09-43C1-8FCE-0C025244610A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642B8EE6-8C09-43C1-8FCE-0C025244610A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642B8EE6-8C09-43C1-8FCE-0C025244610A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642B8EE6-8C09-43C1-8FCE-0C025244610A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622CCCBA-D9BE-408A-BD88-F8104BFF591F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622CCCBA-D9BE-408A-BD88-F8104BFF591F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622CCCBA-D9BE-408A-BD88-F8104BFF591F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622CCCBA-D9BE-408A-BD88-F8104BFF591F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2A3CE8-F9EF-4EF6-B5E1-81324E4139FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2A3CE8-F9EF-4EF6-B5E1-81324E4139FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2A3CE8-F9EF-4EF6-B5E1-81324E4139FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2A3CE8-F9EF-4EF6-B5E1-81324E4139FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1286617F-321D-4E60-A9E0-65BE001701F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1286617F-321D-4E60-A9E0-65BE001701F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1286617F-321D-4E60-A9E0-65BE001701F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1286617F-321D-4E60-A9E0-65BE001701F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
